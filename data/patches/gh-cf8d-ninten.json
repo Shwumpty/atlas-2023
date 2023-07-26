@@ -1,0 +1,58 @@
+{
+	"id": -1,
+	"name": "Ninten",
+	"description": "Ninten is from the Earthbound/Mother series and is the main protagonist of Earthbound Beginnings/Mother 1.",
+	"links": {
+		"website": [
+			"https://wikibound.info/wiki/Ninten"
+		],
+		"subreddit": [
+			"earthbound"
+		],
+		"discord": [
+			"earthbound"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				931,
+				-71
+			],
+			[
+				929,
+				-90
+			],
+			[
+				930,
+				-96
+			],
+			[
+				935,
+				-99
+			],
+			[
+				942,
+				-99
+			],
+			[
+				945,
+				-94
+			],
+			[
+				946,
+				-91
+			],
+			[
+				943,
+				-71
+			]
+		]
+	},
+	"center": {
+		"254": [
+			937,
+			-90
+		]
+	}
+}
