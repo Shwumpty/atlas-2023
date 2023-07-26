@@ -1,0 +1,62 @@
+{
+	"id": -1,
+	"name": "Red Pikmin",
+	"description": "A red Pikmin from the Pikmin games.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Pikmin"
+		],
+		"subreddit": [
+			"Pikmin"
+		],
+		"discord": [
+			"85QJzwb"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				222,
+				-806
+			],
+			[
+				222,
+				-823
+			],
+			[
+				228,
+				-823
+			],
+			[
+				233,
+				-830
+			],
+			[
+				239,
+				-826
+			],
+			[
+				239,
+				-821
+			],
+			[
+				236,
+				-818
+			],
+			[
+				231,
+				-818
+			],
+			[
+				231,
+				-806
+			]
+		]
+	},
+	"center": {
+		"254": [
+			234,
+			-823
+		]
+	}
+}
